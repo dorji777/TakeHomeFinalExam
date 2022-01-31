@@ -28,9 +28,7 @@ public class ReadDocFile {
 			e.printStackTrace();
 		}
 		
-		
-
-	}
+}
 
 	public  static void doesFileExist() {
 

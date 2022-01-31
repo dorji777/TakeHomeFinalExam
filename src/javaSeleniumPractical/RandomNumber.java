@@ -10,7 +10,7 @@ public class RandomNumber {
 		Random ranNum = new Random();
 		int count; 
 		int[] numberArray = new int[500]; //Generating 500 numbers
-		numberArray[0] = ranNum.nextInt(500); //Initialize first number
+		numberArray[0] = ranNum.nextInt(500); //Initializing the first number
 		int largest = numberArray[0]; 
 		int smallest = numberArray[0];
 		
